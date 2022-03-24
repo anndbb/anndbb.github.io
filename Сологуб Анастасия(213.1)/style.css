@@ -1,0 +1,27 @@
+body {
+	background-color: powderblue;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+h1 {
+	text-align: center;
+}
+
+#h1 {
+	color: red;
+	text-align: center;
+}
+
+img {
+	width: 1100px;
+	height: 700px;
+}
+
+pre {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
